@@ -102,10 +102,10 @@ python main.py
 ## Project Structure
 ```text
 │
-├── journal.txt
-├── main.py
-├── output.png
-└── README.md
+├── README.md
+├── journal.txt  
+├── main.py 
+└── output.png
 ```
 
 ## Important Notes
